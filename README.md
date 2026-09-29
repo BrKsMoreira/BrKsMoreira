@@ -20,5 +20,3 @@
     <img src="https://skillicons.dev/icons?i=twitter"/>
   </a>
 </p>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=000000&width=435&lines=Ol%C3%A1!+Meu+nome+%C3%A9+Kaique+Savioli+Moreira.)](https://git.io/typing-svg)
